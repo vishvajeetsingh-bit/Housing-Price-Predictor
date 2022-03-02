@@ -11,6 +11,6 @@ or laptops. They can get the required predicted price for the house they are int
 
 This is the User Interface of my project in this a user just need to enter some values of characteristics of the house and accordingly
 the price of the house will be projected to the user, just by clicking "Predict" button.
+![ss](https://user-images.githubusercontent.com/67941954/156427932-3a8da85a-c3af-4907-88de-42ac674f0d11.png)
 
-![image](https://user-images.githubusercontent.com/69504019/156388026-1a0c0c49-19ce-484a-b289-5d14a3b05c6c.png)
 
